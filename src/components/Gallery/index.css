@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.thumbnailsList {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.selectedImage {
+  height: 80vh;
+  width: 100%;
+}
+.heading {
+  color: #1e293b;
+  font-family: Roboto;
+}
+.text-para {
+  color: #64748b;
+  font-family: Roboto;
+}

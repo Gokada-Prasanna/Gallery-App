@@ -1,0 +1,18 @@
+/* Write your code here. */
+.image {
+  height: 80px;
+  width: 80px;
+  opacity: 0.5;
+  margin-right: 10px;
+  border-radius: 12px;
+  padding: 0px;
+  border-width: 0px;
+}
+
+.active_thumbnail {
+  opacity: 1;
+}
+
+.buttonImage {
+  width: 100%;
+}
